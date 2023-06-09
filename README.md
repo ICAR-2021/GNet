@@ -29,3 +29,15 @@ Accepted for publication at 20th International Conference on Advanced Robotics (
   organization={IEEE}
 }
 ```
+
+## Installation
+
+Tested on: Ubuntu 20.04.6, Python 3.8.10, pip 23.1.2.
+
+`requirements.txt` created with `pipreqs` 0.4.13.
+
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
