@@ -39,5 +39,6 @@ Tested on: Ubuntu 20.04.6, Python 3.8.10, pip 23.1.2.
 ```
 python -m venv .venv
 source .venv/bin/activate
+pip install torch==2.0.1
 pip install -r requirements.txt
 ```
